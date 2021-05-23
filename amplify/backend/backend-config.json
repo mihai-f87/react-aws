@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "reactaws5a81ca7c": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
