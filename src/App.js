@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         {/*<img src={logo} className="App-logo" alt="logo" />*/}
-        <h1>Sample Chart</h1>
+        <h1>Sample Charts</h1>
       </header>
       <MyChart/>
       <AmplifySignOut />
