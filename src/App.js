@@ -11,7 +11,6 @@ function App() {
         <h1>Sample Charts</h1>
       </header>
       <MyChart/>
-      
       <AmplifySignOut />
     </div>
   );
